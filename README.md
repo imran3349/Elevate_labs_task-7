@@ -1,1 +1,2 @@
 # Elevate_labs_task-7
+"This task involves creating a small SQLite database with sales data and using Python to connect to it. We will write simple SQL queries to calculate total quantities sold and revenue for each product. Then, we will load the results into pandas, print them out, and visualize the revenue using a basic bar chart with matplotlib. It’s a great way to practice combining SQL with Python for quick data summaries and visual insights."
